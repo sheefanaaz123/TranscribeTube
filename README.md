@@ -37,5 +37,3 @@ If you'd like to contribute to the project, please follow these guidelines:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-Feel free to explore the code in the [GitHub Repository](link_to_repo) and join the conversation on the future of education with AI-powered note generation!
