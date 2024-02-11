@@ -8,6 +8,7 @@ This Streamlit app leverages the power of AI to automate the process of generati
 2. **Select Video Language:** Choose the language of the video transcript.
 3. **Set Maximum Summary Length:** Adjust the maximum length of the generated summary in words.
 4. **Click "Get Detailed Notes":** Witness the AI-powered Gemini Pro model generate detailed notes based on the video transcript!
+5. **Download Notes:** You can also download the generated notes in a text file for further reference.
 
 ## Technologies Used
 - [Streamlit](https://www.streamlit.io/): Streamlit is used for creating a user-friendly web application interface.
@@ -26,6 +27,7 @@ Check out the demo video to see the AI Lecture Transcriber in action: [Demo Vide
 1. Input: Paste the YouTube video link.
 2. Select: Choose the video language and set the maximum summary length.
 3. Generate: Click the "Get Detailed Notes" button to generate notes.
+4. Download: Click the "Download Notes" button to download the generated notes in a text file.
 
 ## Contributing
 If you'd like to contribute to the project, please follow these guidelines:
