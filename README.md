@@ -26,7 +26,12 @@ This Streamlit app leverages the power of AI to automate the process of generati
 3. Run the app: `streamlit run app.py`
 
 ## Demo
-Check out the demo video to see the AI Lecture Transcriber in action: [Demo Video](link_to_demo_video)
+Check out the demo video to see the AI Lecture Transcriber in action: 
+
+
+https://github.com/sheefanaaz123/TranscribeTube/assets/97973932/b8f905e3-5839-4c80-a6cb-d4db41276f76
+
+
 
 ## Sample Usage
 1. Input: Paste the YouTube video link.
